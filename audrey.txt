@@ -4,8 +4,7 @@ I think we should update this document and the other at some point.
 
 Something Else to be added via knb
 
-Lets change this line up some in addition to this other stuff.
-Changing this stuff.
+Now we going to changes this on a new branch
 
 will this be added too?
 
